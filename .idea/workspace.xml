@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f78a9a4-9c36-4b07-b54e-c987d6ded29d" name="Changes" comment="adding xml">
+    <list default="true" id="5f78a9a4-9c36-4b07-b54e-c987d6ded29d" name="Changes" comment="adding base files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-essentials/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-essentials/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644913168380</updated>
-      <workItem from="1644913170274" duration="3662000" />
+      <workItem from="1644913170274" duration="9471000" />
+      <workItem from="1644923158742" duration="2264000" />
+      <workItem from="1645009232397" duration="1091000" />
+      <workItem from="1645011150155" duration="18247000" />
     </task>
     <task id="LOCAL-00001" summary="adding xml">
       <created>1644915945955</created>
@@ -61,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644916528016</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding base files">
+      <created>1644917389422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644917389422</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,9 +88,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding xml" />
+    <MESSAGE value="adding base files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding base files" />
   </component>
 </project>
