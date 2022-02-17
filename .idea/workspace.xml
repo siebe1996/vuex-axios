@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f78a9a4-9c36-4b07-b54e-c987d6ded29d" name="Changes" comment="adding base files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-essentials/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-essentials/src/App.vue" afterDir="false" />
-    </list>
+    <list default="true" id="5f78a9a4-9c36-4b07-b54e-c987d6ded29d" name="Changes" comment="ading most of logic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +39,7 @@
       <workItem from="1644913170274" duration="9471000" />
       <workItem from="1644923158742" duration="2264000" />
       <workItem from="1645009232397" duration="1091000" />
-      <workItem from="1645011150155" duration="18247000" />
+      <workItem from="1645011150155" duration="18691000" />
     </task>
     <task id="LOCAL-00001" summary="adding xml">
       <created>1644915945955</created>
@@ -72,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644917389422</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ading most of logic">
+      <created>1645031508243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645031508243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding xml" />
     <MESSAGE value="adding base files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding base files" />
+    <MESSAGE value="ading most of logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="ading most of logic" />
   </component>
 </project>

@@ -24,8 +24,10 @@ export default {
       return this.slots.every((slot) => slot.finished);
     },
     hasWon: function () {
-      return this.slots[0].emoji === this.slots[1].emoji &&
-          this.slots[0] === this.slots[2];
+      return (
+        this.slots[0].emoji === this.slots[1].emoji &&
+        this.slots[0] === this.slots[2]
+      );
     },
   },
   watch: {
@@ -121,13 +123,48 @@ body {
   background-color: rgb(245, 245, 220);
   color: black;
 }
+.machine {
+  text-align: center;
+}
+
 h1 {
-  color: black;
+  font-weight: 600;
 }
+
+.slots {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
 .slot {
-  width: 25vw;
+  padding: 0.5rem 1rem;
+  background-color: white;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
 }
-.draai {
-  transform: translateX(-50vw) translateX(50vw);
+
+button + div {
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+button {
+  border: none;
+  background-color: rgb(138, 205, 228);
+  padding: 1rem 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: lightblue;
 }
 </style>
