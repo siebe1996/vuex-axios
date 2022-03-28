@@ -1,7 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f78a9a4-9c36-4b07-b54e-c987d6ded29d" name="Changes" comment="ading most of logic" />
+    <list default="true" id="5f78a9a4-9c36-4b07-b54e-c987d6ded29d" name="Changes" comment="afwerking">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/assets/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/TheWelcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/WelcomeItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/atoms/ItemTag.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/icons/IconCommunity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/icons/IconDocumentation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/icons/IconEcosystem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/icons/IconSupport.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/icons/IconTooling.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/molecules/GfPagnation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/molecules/ListItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/organisms/GfFilter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/components/organisms/GfList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/composables/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-components/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-essentials/public/docs/labo.01.vue-essentials.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-essentials/public/images/voorbeeld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-essentials/public/sounds/185611__kubawolanin__metal-tick-1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-essentials/public/sounds/411088__inspectorj__bell-candle-damper-a-h4n.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/TheWelcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/WelcomeItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/icons/IconCommunity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/icons/IconDocumentation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/icons/IconEcosystem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/icons/IconSupport.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/icons/IconTooling.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/organisms/storeBasket.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/components/organisms/storeStore.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/store/fruit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/store/groenten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-axios/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/sass.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/sass.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/binary-extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/binary-extensions.json.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/lib/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/lib/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/lib/expand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/lib/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/lib/fsevents-handler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/lib/nodefs-handler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/dist/immutable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/dist/immutable.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/dist/immutable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/dist/immutable.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/dist/immutable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/immutable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-binary-path/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-path/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-path/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/normalize-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/lib/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/lib/picomatch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/lib/scan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picomatch/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readdirp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readdirp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readdirp/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readdirp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readdirp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/sass.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/sass.default.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/compile.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/exception.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/importer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/legacy/exception.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/legacy/function.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/legacy/importer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/legacy/options.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/legacy/plugin_this.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/legacy/render.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/logger/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/logger/source_location.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/logger/source_span.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/options.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/util/promise_or.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/argument_list.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/boolean.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/color.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/function.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/list.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/number.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sass/types/value/string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/source-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-regex-range/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-regex-range/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-regex-range/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-regex-range/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +211,24 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="258eVt2Sxmexsq6Zpg5sysiB7DF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,7 +240,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vuex-axios" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -40,6 +259,24 @@
       <workItem from="1644923158742" duration="2264000" />
       <workItem from="1645009232397" duration="1091000" />
       <workItem from="1645011150155" duration="18691000" />
+      <workItem from="1645101624076" duration="1209000" />
+      <workItem from="1645521925982" duration="38000" />
+      <workItem from="1645525213881" duration="1178000" />
+      <workItem from="1646645200153" duration="621000" />
+      <workItem from="1646725366012" duration="5483000" />
+      <workItem from="1646731195014" duration="8208000" />
+      <workItem from="1647935363498" duration="8482000" />
+      <workItem from="1647943963123" duration="21738000" />
+      <workItem from="1648037975622" duration="131000" />
+      <workItem from="1648057227305" duration="831000" />
+      <workItem from="1648059395607" duration="65000" />
+      <workItem from="1648059580369" duration="6090000" />
+      <workItem from="1648117440990" duration="464000" />
+      <workItem from="1648121529215" duration="1141000" />
+      <workItem from="1648125849676" duration="38000" />
+      <workItem from="1648126009404" duration="302000" />
+      <workItem from="1648126409494" duration="1670000" />
+      <workItem from="1648136869625" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="adding xml">
       <created>1644915945955</created>
@@ -76,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645031508243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="start css">
+      <created>1645102022568</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645102022568</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +342,8 @@
     <MESSAGE value="adding xml" />
     <MESSAGE value="adding base files" />
     <MESSAGE value="ading most of logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="ading most of logic" />
+    <MESSAGE value="start css" />
+    <MESSAGE value="afwerking" />
+    <option name="LAST_COMMIT_MESSAGE" value="afwerking" />
   </component>
 </project>
